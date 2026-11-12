@@ -15,7 +15,7 @@ A responsive landing page for a blogging platform built around text-based conten
 
 ## About
 
-Chatter is a landing page converted from a Figma design into plain HTML and CSS, built one section at a time. It is fully responsive and uses no frameworks or JavaScript.
+Chatter is a landing page converted from a Figma design into plain HTML and CSS, built one section at a time and fully responsive.
 
 ## Sections
 
